@@ -19,7 +19,7 @@ Feel free to contribute by submitting a pull request! You can find the contribut
 | D.E. Shaw | New York, NY | [Software Development Intern (New York) - Summer 2024](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2024-4803) <br/> [Systems: Technical Program Manager Intern (New York) – Summer 2024](https://www.deshaw.com/careers/systems-technical-program-manager-intern-new-york-summer-2024-4786) | Internship |
 | [Epic](https://epic.avature.net/Careers/FolderDetail/Software-Developer-Intern---Summer-2024/23429) | Madison, WI | Software Developer Intern - Summer 2024 (No sponsorship available) | Internship |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-program.html) | Global | Summer 2024 Analyst | Internship | Internship |
-| KPMG | Multiple Locations | **🔒 Closed 🔒** Summer 2024 Engineering & IT Internship (No sponsorship available) | Internship |
+| KPMG | Multiple Locations | [Embark Scholar Intern - IT/Engineering](https://app.ripplematch.com/v2/public/job/6f5894f6/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=mt_repo_jj&utm_term=null) | Internship |
 | [Lumen Technologies](https://jobs.lumen.com/global/en/job/324980/Intern-Summer-2024-Program-Submit-Interest) | Remote, USA | Intern - Summer 2024 Program - Submit Interest (U.S. work authorization required) | Internship |
 | [Marotta Controls](https://marotta.com/job-openings/?gnk=job&gni=8a7883ac879c5eca0187ef4d715d4fd8&lang=en) | Parsippany, NJ | Software Engineering Intern - (Summer 2024) (U.S citizens only)| Internship |
 | [Mercedes-Benz](https://jobs.lever.co/MBRDNA/59ae463c-5d10-4bb6-9dfd-4e26c7d84a69) | Sunnyvale, CA | Data Products Intern | Internship |
