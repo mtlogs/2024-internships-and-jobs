@@ -3,7 +3,7 @@ This repository is for those looking for Summer 2024 full-time jobs, internships
 
 We are only focusing on opportunities located in the United States, Canada or remote.
 
-Feel free to contribute by submitting a pull request! You can find the contribution guidelines here!
+Feel free to contribute by submitting a pull request! You can find the contribution guidelines [here](https://github.com/mtlogs/summer-2024-opportunities/commit/a62ee0f12c6d96ef3c2d1ec40422f7f4db38ef07)!
 
 | Name | Location | Role | Role Type |
 | ---- | -------- | ----- | ------ |
