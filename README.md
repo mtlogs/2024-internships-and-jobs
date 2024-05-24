@@ -7,7 +7,6 @@ Feel free to contribute by submitting a pull request! You can find the contribut
 
 | Name | Location | Role | Role Type |
 | ---- | -------- | ----- | ------ |
-
 | [84.51](https://app.ripplematch.com/v2/public/job/6c9e10fa/details?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=businessfacingrepo&utm_term=null) | Cincinnati, OH | Finance - Internship Program | Internship |
 | [AQR Capital Management, LLC](https://careers.aqr.com/jobs/university-open-positions/greenwich-ct/2024-summer-internship-express-interest/4478927) | Greenwich, CT | 2024 Summer Internship-Express Interest | Internship |
 | Apple | Multiple US Locations | [Software Engineering Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480063/software-engineering-internships) <br/> [ML/AI Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480066/machine-learning-ai-internships) <br/> [Engineering PM Internships (Express Interest)](https://jobs.apple.com/en-us/details/200480064/engineering-program-management-internships) | Internship |
